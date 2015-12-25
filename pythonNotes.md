@@ -1,3 +1,3 @@
 # My Python Learning Notes
-## Strat at Dec 25 2015
+## Start at Dec 25 2015
 
